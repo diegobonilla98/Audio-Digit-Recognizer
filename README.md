@@ -7,7 +7,7 @@ The architecture is a couple 1D convnets and transfered learning to two more den
 Turned out fine. Cool project.
 
 Learning curves.
-The accuracy is on the right, the loss is the one in the left.
+The accuracy is on the left, the loss is the one in the right.
 
 
 ![Accuracy of the model](/acc.png)
