@@ -6,6 +6,7 @@ The working model (audio_model.py) reached a validation accuracy of over 80% and
 The architecture is a couple 1D convnets and transfered learning to two more dense layers. Since the data is pretty complex, the complexity of the model and the epochs are increased.
 Turned out fine. Cool project.
 
-
+Learning curves.
+The accuracy is on the right, the loss is the one in the left.
 ![Accuracy of the model](/acc.png)
 ![Loss of the model](/loss.png)
